@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+22 de marzo de 2020. Ashwin Cardenas 
 
 ## Reglas adicionales
 
