@@ -1,29 +1,21 @@
 # 100 días de código - diario
 
-### Día 0: 30 de febrero de 2016 (ejemplo 1)
+### Día 1: 23 de marzo de 2020 
 
-##### (elimine o comente)
+##### 
 
-**Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
+**Progreso de hoy**: empece a tomar un curso de Web Design Certification  con una duracion de 300 horas en https://www.freecodecamp.org
 
-**Reflexiones:** Trabajando con el CSS fue una prueba pero, en general, siento que estoy progresando y mejorando lentamente. Canvas, todavía es nuevo para mi pero logré descubrir algunas funcionalidades básicas.  
-**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
+**Reflexiones:** puesto que en si es un curso a tomar no se si cuente como un reto de programar todos los dias pero si estoy aprendiendo mucho al respecto, mas porque en si es desde lo inicial en el area de diseñador web
 
-### Día 0: 30 de febrero de 2016 (ejemplo 1)
 
-##### (elimine o comente)
+### Día 7: 30 de marzo de 2020 
 
-**Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
+##### 
 
-**Reflexiones:** Trabajando con el CSS fue una prueba pero, en general, siento que estoy progresando y mejorando lentamente. Canvas, todavía es nuevo para mi pero logré descubrir algunas funcionalidades básicas.  
-**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
+**Progreso de hoy**: e llegado al tema 3 del curso web design "applied visual desing" 
 
-### día 1: 27 de junio, 2016
+**Reflexiones:** puesto que es un curso tomado en linea, el avance que se veria por dia es muy poco por ende pasare a mostrarlo por semana, dando igual mis avances al respecto 
+**Enlace a mi trabajo:** 
 
-**Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
-
-**Reflexiones** Recientemente comencé a programar y es una gran sensación cuando finalmente resuelvo un desafío de algoritmo después de muchos intentos y horas.  
-**Enlace(s) a mi trabajo**
-
-1.  [Descubra la palabra más larga en una cadena de caracteres](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2.  [Poner título en mayúsculas en una oración](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+![evidencia de avance](/home/tanotash/Imágenes/freecode.png)
