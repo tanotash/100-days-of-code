@@ -19,9 +19,5 @@
 
 **Enlace a mi trabajo:** 
 
-![evidencia de avance][img1]
 
-<iframe src="https://drive.google.com/file/d/1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu/preview" width="640" height="480"></iframe>
-
-
-[img1]: https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu "evidencia"
+ https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu
