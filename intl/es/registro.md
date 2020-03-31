@@ -19,6 +19,9 @@
 
 **Enlace a mi trabajo:** 
 
-![nombre de la imagen][https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu]
+![evidencia de avance][img1]
 
 ![evidencia de avance](https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu)
+
+
+[img1]: https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu "evidencia"
