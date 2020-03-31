@@ -21,7 +21,7 @@
 
 ![evidencia de avance][img1]
 
-![evidencia de avance](https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu)
+<iframe src="https://drive.google.com/file/d/1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu/preview" width="640" height="480"></iframe>
 
 
 [img1]: https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu "evidencia"
