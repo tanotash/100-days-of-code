@@ -16,6 +16,9 @@
 **Progreso de hoy**: e llegado al tema 3 del curso web design "applied visual desing" 
 
 **Reflexiones:** puesto que es un curso tomado en linea, el avance que se veria por dia es muy poco por ende pasare a mostrarlo por semana, dando igual mis avances al respecto 
+
 **Enlace a mi trabajo:** 
+
+![nombre de la imagen][https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu]
 
 ![evidencia de avance](https://drive.google.com/open?id=1wF0OVxlbj_fmGQfNcsJl_5rkCnkBO7eu)
