@@ -24,13 +24,13 @@
  
  ### Dia 15: 7 de abril de 2020
  
- ####
+ #####
  
  **Progreso de la semana**: avance en el curso de web design, ahora solo me falta terminar los ultimos temas para poder obtener un certificado
  
- **Reflexiones** es un poco complicado no tener un profesor que te explique las cosas y mas tenerlas en un idioma distinto al nativo, no porque no se sepa el idioma ingles sino que ay cosas que van implicitas en el idioma que en el nativo tiene muchos significados 
+ **Reflexiones** es un poco complicado no tener un profesor que te explique las cosas y mas tenerlas en un idioma distinto al nativo, no porque no se sepa el idioma ingles sino que ay cosas que van implicitas en el idioma que en el nativo tiene muchos significados.
  
  
- **Enlace a mi trabajo ** 
+ **Enlace a mi trabajo** 
  
  https://www.freecodecamp.org/tanotash
